@@ -5,3 +5,6 @@ moto[s3]>=4.0
 pytest>=7.0
 requests>=2.28
 google-cloud-storage>=2.0
+httpx>=0.23
+pytest-asyncio>=0.20
+tenacity>=8.0
